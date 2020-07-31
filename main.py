@@ -12,7 +12,7 @@ time.sleep(0.2)
 
 #index
 
-timeList = random.choice([2, 3, 4, 5, 8])
+timeList = random.choice([2, 5, 8, 10, 15])
 
 # main
 
