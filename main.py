@@ -45,7 +45,7 @@ if question == 'Y' or question == 'y':
 
 	print('Hacking done!')
 	print('The computer will restart to complete the hack')
-	os.system('shutdown -s -t 100 -c "Hack hack cái đầu buồi, làm vậy là xấu nghen"')
+	os.system('shutdown -s -t 5 -c "Hack hack cái đầu buồi, làm vậy là xấu nghen"')
 	print('\n')
 
 elif question == 'N' or question == 'n':
